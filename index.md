@@ -3,7 +3,7 @@
 ## Members
 - Brandon Blake
 - Rikki Mount
-- Alan DOnhue
+- Alan Donehue
 - Sovy Yang
 
 ### Support or Contact
