@@ -111,7 +111,20 @@
                                Text="Contacts" />
                 </StackPanel>
             </Controls:HamburgerButtonInfo>
-        </Controls:HamburgerMenu.PrimaryButtons>
+
+            <!--  Appintments button  -->
+                <Controls:HamburgerButtonInfo ClearHistory="True" PageType="views:AppointmentsPage" 
+                                              AutomationProperties.Name="Jerry"
+                                              >
+                <StackPanel Orientation="Horizontal">
+                    <SymbolIcon Width="48" Height="48"
+                		    Symbol="Clock" />
+                    <TextBlock Margin="12,0,0,0" VerticalAlignment="Center"
+                                   Text="Appointments" />
+                </StackPanel>
+            </Controls:HamburgerButtonInfo>
+            </Controls:HamburgerMenu.PrimaryButtons>
+
 
         <Controls:HamburgerMenu.SecondaryButtons>
             <!--  settingspage button  -->

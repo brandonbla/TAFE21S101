@@ -5,6 +5,12 @@
     <RootPropertyPathName Name="InitialAmount" />
     <RootPropertyPathName Name="AccountName" />
     <RootPropertyPathName Name="ID" />
+    <RootPropertyPathName Name="EndTime" />
+    <RootPropertyPathName Name="StartTime" />
+    <RootPropertyPathName Name="EventDate" />
+    <RootPropertyPathName Name="Location" />
+    <RootPropertyPathName Name="EventName" />
+    <RootPropertyPathName Name="AppointmentID" />
     <RootPropertyPathName Name="AssetValue" />
     <RootPropertyPathName Name="AssetName" />
     <RootPropertyPathName Name="ContactPhone" />
@@ -197,9 +203,9 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="RenderTransformOrigin" />
       <RootProperty Name="Height" />
-      <RootProperty Name="UseLayoutRounding" />
       <RootProperty Name="Margin" />
       <RootProperty Name="RenderTransform" />
+      <RootProperty Name="UseLayoutRounding" />
       <RootProperty Name="BorderBrush" />
       <RootProperty Name="BorderThickness" />
     </RootType>
@@ -242,6 +248,21 @@
       <RootProperty Name="FallbackValue" />
     </RootType>
     <RootType FullName="StartFinance.Views.AccountsPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Symbol" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
+      <RootProperty Name="TranslateY" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="Command" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="StartFinance.Views.AppointmentsPage" />
     <RootType FullName="StartFinance.Views.AssetsPage" />
     <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
       <RootProperty Name="Content" />
@@ -267,20 +288,6 @@
       <RootProperty Name="RenderTransform" />
     </RootType>
     <RootType FullName="StartFinance.Views.Busy" />
-    <RootType FullName="Windows.UI.Xaml.Controls.SymbolIcon">
-      <RootProperty Name="Width" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="Symbol" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Media.CompositeTransform">
-      <RootProperty Name="TranslateY" />
-    </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.Button">
-      <RootProperty Name="Margin" />
-      <RootProperty Name="Content" />
-      <RootProperty Name="Command" />
-      <RootEvent Name="Click" />
-    </RootType>
     <RootType FullName="StartFinance.Views.ContactDetails" />
     <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
       <RootProperty Name="Content" />
