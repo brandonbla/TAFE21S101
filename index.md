@@ -4,7 +4,6 @@
 - Brandon Blake
 - Rikki Mount
 - Alan Donehue
-- Sovy Yang
 
 ### Support or Contact
 
