@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\5tsdNew\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {}
+    "C:\\Feat_PersonalInfo\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {}
   },
   "projects": {
-    "C:\\5tsdNew\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {
+    "C:\\Feat_PersonalInfo\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\5tsdNew\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+        "projectUniqueName": "C:\\Feat_PersonalInfo\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
         "projectName": "Start Finance",
-        "projectPath": "C:\\5tsdNew\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
-        "packagesPath": "C:\\Users\\rikki\\.nuget\\packages\\",
-        "outputPath": "C:\\5tsdNew\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\obj\\",
+        "projectPath": "C:\\Feat_PersonalInfo\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\Start Finance.csproj",
+        "packagesPath": "C:\\Users\\doneh\\.nuget\\packages\\",
+        "outputPath": "C:\\Feat_PersonalInfo\\TAFE21S101\\StartFinanceMaster\\InstaRichie\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\rikki\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\doneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "uap10.0.18362"
