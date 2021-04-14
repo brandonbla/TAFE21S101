@@ -105,7 +105,6 @@
     <Compile Include="Models\Accounts.cs" />
     <Compile Include="Models\Assets.cs" />
     <Compile Include="Models\Category.cs" />
-    <Compile Include="Models\Appointment.cs" />
     <Compile Include="Models\Contact.cs" />
     <Compile Include="Models\Debt.cs" />
     <Compile Include="Models\Transactions.cs" />
@@ -118,9 +117,6 @@
     <Compile Include="ViewModels\SettingsPageViewModel.cs" />
     <Compile Include="Views\AccountsPage.xaml.cs">
       <DependentUpon>AccountsPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Views\AppointmentsPage.xaml.cs">
-      <DependentUpon>AppointmentsPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\AssetsPage.xaml.cs">
       <DependentUpon>AssetsPage.xaml</DependentUpon>
@@ -191,10 +187,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Page>
     <Page Include="Views\AccountsPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="Views\AppointmentsPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
