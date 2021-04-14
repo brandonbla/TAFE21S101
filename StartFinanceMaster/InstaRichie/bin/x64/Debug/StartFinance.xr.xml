@@ -13,13 +13,6 @@
     <RootPropertyPathName Name="AppointmentID" />
     <RootPropertyPathName Name="AssetValue" />
     <RootPropertyPathName Name="AssetName" />
-    <RootPropertyPathName Name="PersonalPhone" />
-    <RootPropertyPathName Name="PersonalEmail" />
-    <RootPropertyPathName Name="Gender" />
-    <RootPropertyPathName Name="DOB" />
-    <RootPropertyPathName Name="PersonalLastName" />
-    <RootPropertyPathName Name="PersonalFirstName" />
-    <RootPropertyPathName Name="PersonalID" />
     <RootPropertyPathName Name="ContactPhone" />
     <RootPropertyPathName Name="ContactCompany" />
     <RootPropertyPathName Name="ContactLastName" />
@@ -295,7 +288,6 @@
       <RootProperty Name="RenderTransform" />
     </RootType>
     <RootType FullName="StartFinance.Views.Busy" />
-    <RootType FullName="StartFinance.Views.PersonalInfo" />
     <RootType FullName="StartFinance.Views.ContactDetails" />
     <RootType FullName="Windows.UI.Xaml.Controls.ScrollViewer">
       <RootProperty Name="Content" />
