@@ -6,7 +6,11 @@
 # User-specific files
 *.suo
 *.user
+<<<<<<< HEAD
 *.userosscache
+=======
+*.usearosscacheaa
+>>>>>>> remotes/origin/feat_ContactDetailsRevised
 *.sln.docstates
 
 # User-specific files (MonoDevelop/Xamarin Studio)
@@ -275,4 +279,8 @@ __pycache__/
 
 # Cake - Uncomment if you are using it
 # tools/**
+<<<<<<< HEAD
 # !tools/packages.config
+=======
+# !tools/packages.config
+>>>>>>> remotes/origin/feat_ContactDetailsRevised
